@@ -10,7 +10,7 @@ margin-top: 1rem;
     height: 100vh;
     width: 100%;
    /* background-color: black; */
-   background-image: url("C:\Users\khand\OneDrive\study\My codes\Projects\Connect\FRONTEND\Connect\public\bc6.jpg");
+   background-image: url("/bc6.jpg");
    background-size: cover;
 }
 

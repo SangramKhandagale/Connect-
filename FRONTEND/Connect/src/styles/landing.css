@@ -8,7 +8,7 @@
     
     height: 100vh;
     width: 100vw;
-    background:url("C:\Users\khand\OneDrive\study\My codes\Projects\Connect\FRONTEND\Connect\public\bc3.jpg") ;
+    background:url("bc3.jpg") ;
     background-repeat:no-repeat ;
     background-size: cover;
   }
@@ -88,7 +88,7 @@
   }
   
   .mainpage{
-     background:url("C:\Users\khand\OneDrive\study\My codes\Projects\Connect\FRONTEND\Connect\public\bc3.jpg") ; 
+     background:url("bc3.jpg") ; 
     height: 100vh;
     width: 100vw;
     display: flex;

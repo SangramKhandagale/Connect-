@@ -133,15 +133,15 @@ setError(message)
   };
 
   return (
-   <div class='mainpage'>
-    <div class="card">
+   <div className='mainpage'>
+    <div className='card'>
     <Card className='cardo' variant="outlined">
-      <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
+      <Box  sx={{ display: { xs: 'flex', md: 'none' } }}>
         
-      </Box>
-      <div>
-        <Button className='signin' variant={formstate==0?"contained":""} onClick={()=>{setFormstate(0)}}>Sign in</Button>
-        <Button className='signup' variant={formstate==1?"contained":""} onClick={()=>{setFormstate(1)}}>Sign Up</Button>
+      </Box >
+      <div className='buttonss'>
+         <Button className='signin' variant={formstate==0?"contained":""} onClick={()=>{setFormstate(0)  }}  >Sign in</Button>
+        <Button className='signup' variant={formstate==1?"contained":""} onClick={()=>{setFormstate(1)}} >Sign Up</Button> 
       </div>
       <Box
         component="form"

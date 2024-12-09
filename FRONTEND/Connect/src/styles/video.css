@@ -21,7 +21,7 @@
 .venom{
     height: 100vh;
     width: 100%;
-    background-image: url("C:\Users\khand\OneDrive\study\My codes\Projects\Connect\FRONTEND\Connect\public\bc2.jpg");
+    background-image: url("bc2.jpg");
     background-size: cover;
 
 }
@@ -92,7 +92,7 @@
     min-height: 100vh;
     height: fit-content;
     width: 100%;
-    background-image: url("C:\Users\khand\OneDrive\study\My codes\Projects\Connect\FRONTEND\Connect\public\bc2.jpg");
+    background-image: url("bc2.jpg");
     background-size: cover;
 }
 
